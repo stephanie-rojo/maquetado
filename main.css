@@ -1,0 +1,190 @@
+
+/*creando titulo*/
+h1{
+  font-family:monospace;
+  font-size:30px ;
+  font-weight: 600;
+}
+hr.estilo_1{
+  border-top: 4px solid #8c8b8b;
+  position: relative;
+  top: -30px;
+  width: 200px;
+  right:525px;
+}
+
+/* contenedor superior de imagenes*/
+.contenedor_1{
+  background: white;
+  /*border:1px solid blue;*/
+  overflow: hidden;
+  clear: both;
+
+}
+
+.imag_1{
+  border: 1px solid black;
+  width: 250px;
+  height: 200px;
+  margin: 20px;
+}
+
+.minico1{
+  float: left;
+  background: white;
+  /*border:1px solid blue;*/
+  overflow: hidden;
+  position: relative;
+  top: 20px;
+
+}
+
+.texto1{
+font-family: monospace;
+font-size: 20px;
+position: relative;
+top: -80px;
+left: 140px;
+color: white;
+
+}
+
+.imag_2{
+  float: left;
+  border: 1px solid black;
+  width: 300px;
+  height: 200px;
+  margin: 20px;
+}
+
+.minico2{
+  float: left;
+  background: white;
+  /*border:1px solid blue;*/
+  overflow: hidden;
+  position: relative;
+  top: 20px;
+}
+
+.texto2{
+  font-family: monospace;
+  font-size: 20px;
+  position: relative;
+  top: -60px;
+  left: 225px;
+  color: white;
+}
+
+.imag_3{
+  float: left;
+  border: 1px solid black;
+  width: 200px;
+  height: 200px;
+  margin: 20px;
+}
+.minico3{
+  float: left;
+  background: white;
+  /*border:1px solid blue;*/
+  overflow: hidden;
+  position: relative;
+  top: 20px;
+}
+
+.texto3{
+  font-family: monospace;
+  font-size: 20px;
+  position: relative;
+  top: -60px;
+  left: 90px;
+  color: white;
+}
+
+/*contenedor inferior de imagenes*/
+.contenedor_2{
+  background: white;
+  /*border:1px solid blue;*/
+  clear: both;
+  overflow: hidden;
+  position: relative;
+  top: -20px;
+
+}
+.imag_4{
+  float: left;
+  border: 1px solid black;
+  width: 250px;
+  height: 250px;
+  margin: 20px;
+  clear: both;
+  position: relative;
+  top: -20px;
+}
+.minico4{
+  float: left;
+  background: white;
+  /*border:1px solid blue;*/
+  overflow: hidden;
+}
+
+.texto4{
+  font-family: monospace;
+  font-size: 20px;
+  position: relative;
+  top: -80px;
+  left: 110px;
+  color: white;
+}
+
+
+.imag_5{
+  float: left;
+  border: 1px solid black;
+  width: 300px;
+  height: 250px;
+  margin: 20px;
+  position: relative;
+  top: -20px;
+}
+
+.minico5{
+  float: left;
+  background: white;
+  /*border:1px solid blue;*/
+  overflow: hidden;
+}
+
+.texto5{
+  font-family: monospace;
+  font-size: 20px;
+  position: relative;
+  top: -80px;
+  left: 190px;
+  color: white;
+}
+
+.imag_6{
+  float: left;
+  border: 1px solid black;
+  width: 200px;
+  height: 250px;
+  margin: 20px;
+  position: relative;
+  top: -20px;
+}
+
+.minico6{
+  float: left;
+  background: white;
+  /*border:1px solid blue;*/
+  overflow: hidden;
+}
+
+.texto6{
+  font-family: monospace;
+  font-size: 20px;
+  position: relative;
+  top: -80px;
+  left: 150px;
+  color: white;
+}
